@@ -1,5 +1,8 @@
 import * as React from "react";
 import { render } from "react-dom";
+//
+
+//components:
 import CylinoidSVG from "./CylinoidSVG";
 import "./styles.css";
 
