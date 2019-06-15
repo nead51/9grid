@@ -3,6 +3,7 @@ import { render } from "react-dom";
 //
 
 //components:
+//components
 import CylinoidSVG from "./CylinoidSVG.js";
 import "./styles.css";
 
