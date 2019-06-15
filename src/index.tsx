@@ -3,7 +3,7 @@ import { render } from "react-dom";
 //
 
 //components:
-import CylinoidSVG from "./CylinoidSVG";
+import CylinoidSVG from "./CylinoidSVG.js";
 import "./styles.css";
 
 function App() {
