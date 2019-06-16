@@ -1,7 +1,7 @@
 import * as React from "react";	
  import { render } from "react-dom";	
 import "./styles.css";	/*  the following is added by me: */
-import CylinoidSvg from './CylinoidSvg.js'
+import CylinoidSvg from './CylinoidSvg.js';
 
 
  import PropTypes from 'prop-types';
