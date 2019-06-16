@@ -1,4 +1,4 @@
-mport * as React from "react";	
+import * as React from "react";	
  import { render } from "react-dom";	import React, { Component } from 'react';
 import "./styles.css";	/*  the following is added by me: */
 import CylinoidSvg from './CylinoidSvg'
