@@ -34,7 +34,7 @@ import {
 import FusionBox from './FusionBox';	
 import CylinoidSVG from "./CylinoidSVG.js";	
 /*this may be default or part of the reactstrap	
-*/	*/
+*/	
 export default class Example extends React.Component {
   constructor(props) {	  
     super(props);	 
