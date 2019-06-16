@@ -2,6 +2,9 @@ import * as React from "react";
  import { render } from "react-dom";	
 import "./styles.css";	/*  the following is added by me: */
 
+<!-- All optional dependencies version -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reactstrap/6.0.1/reactstrap.full.min.js"></script>
+
 
  import PropTypes from 'prop-types';
 import { bindActionCreators } from 'redux';	
