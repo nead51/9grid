@@ -4,9 +4,9 @@ import "./styles.css";	/*  the following is added by me: */
 import CylinoidSvg from './CylinoidSvg'
 
 
- import PropTypes from 'prop-types';	import PropTypes from 'prop-types';
-import { bindActionCreators } from 'redux';	import { bindActionCreators } from 'redux';
-import { connect } from 'react-redux';	import { connect } from 'react-redux';
+ import PropTypes from 'prop-types';
+import { bindActionCreators } from 'redux';	
+import { connect } from 'react-redux';	
 import { Link } from 'react-router-dom'
 import reactLogo from '../../images/react-logo.svg';
 import rekitLogo from '../../images/rekit-logo.svg';
