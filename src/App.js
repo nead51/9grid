@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.less';
-import './FusionBox.js';
+import FusionBox './FusionBox.js';
 
 
 class App extends Component {
