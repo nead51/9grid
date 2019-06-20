@@ -21,7 +21,7 @@ class App extends Component {
           >
             Learn React
           </a>
-     
+     const SVG = ({ style = {}, fill = '#fff', width = '100%', className = '', height = '100%', viewBox = '0 0 32 32', }) => <svg width={width} style={style} height={height} viewBox={viewBox} className={className} xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" > <path d="0 10 10 20" fill={fill} /> </svg>;
         </header>
            
       </div>
